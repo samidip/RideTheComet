@@ -1,0 +1,9 @@
+/Users/SamMBP/CLIProjects/RideTheComet/RideTheComet/bin/Debug/netstandard2.0/RideTheComet.deps.json
+/Users/SamMBP/CLIProjects/RideTheComet/RideTheComet/bin/Debug/netstandard2.0/RideTheComet.dll
+/Users/SamMBP/CLIProjects/RideTheComet/RideTheComet/bin/Debug/netstandard2.0/RideTheComet.pdb
+/Users/SamMBP/CLIProjects/RideTheComet/RideTheComet/obj/Debug/netstandard2.0/RideTheComet.AssemblyInfoInputs.cache
+/Users/SamMBP/CLIProjects/RideTheComet/RideTheComet/obj/Debug/netstandard2.0/RideTheComet.AssemblyInfo.cs
+/Users/SamMBP/CLIProjects/RideTheComet/RideTheComet/obj/Debug/netstandard2.0/RideTheComet.csproj.CoreCompileInputs.cache
+/Users/SamMBP/CLIProjects/RideTheComet/RideTheComet/obj/Debug/netstandard2.0/RideTheComet.dll
+/Users/SamMBP/CLIProjects/RideTheComet/RideTheComet/obj/Debug/netstandard2.0/RideTheComet.pdb
+/Users/SamMBP/CLIProjects/RideTheComet/RideTheComet/obj/Debug/netstandard2.0/RideTheComet.csprojAssemblyReference.cache
